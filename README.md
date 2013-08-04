@@ -1,4 +1,4 @@
-code 是代码
+code 是代码，用C++语言写的
 
 output 是输出结果
 
